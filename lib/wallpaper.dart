@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:wallpaper_app/fullscreen.dart';
+import 'package:pexels_wallpaper_app/fullscreen.dart';
 
 class Wallpaper extends StatefulWidget {
   const Wallpaper({super.key});
