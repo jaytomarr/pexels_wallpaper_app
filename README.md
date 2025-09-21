@@ -16,9 +16,9 @@ Beautiful wallpaper application built using **Flutter** and **Pexels API**.
 ## Screenshots
 
 <div align="left">
-  <img src="assets/1.png" alt="" width="200"/>
-  <img src="assets/2.png" alt="" width="200"/>
-  <img src="assets/3.png" alt="" width="200"/>
+  <img src="assets/1.png" alt="" width="260"/>
+  <img src="assets/2.png" alt="" width="260"/>  
+  <img src="assets/3.png" alt="" width="260"/>
 </div>
 
 ## Dependencies
